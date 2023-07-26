@@ -17,13 +17,9 @@
 - Delete a User from the Database
 
 
-### some snapshots of our cloned website are below:
-
-This is the landing page of the website:
-
-![snap1](https://github.com/RahulGaurr/fastrack.com/blob/main/Screenshot%20(1924).png?raw=true)
+###  Snapshots of our Application:
+</br>
 
 
-
-## This is all about our short description of our project
+![snap1](https://github.com/RahulGaurr/CRUD-MERN/blob/master/server/crud-admin-dashboard.png?raw=true)
 
